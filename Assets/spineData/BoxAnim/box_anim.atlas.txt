@@ -1,0 +1,41 @@
+
+box_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 1, 518
+  size: 330, 312
+  orig: 330, 312
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 1, 138
+  size: 378, 228
+  orig: 378, 228
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 333, 596
+  size: 123, 234
+  orig: 123, 234
+  offset: 0, 0
+  index: -1
+string
+  rotate: false
+  xy: 231, 363
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 1, 1
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1

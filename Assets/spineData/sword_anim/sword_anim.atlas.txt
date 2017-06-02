@@ -1,0 +1,20 @@
+
+sword_anim.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: false
+  xy: 90, 145
+  size: 5, 89
+  orig: 5, 89
+  offset: 0, 0
+  index: -1
+sword00218
+  rotate: false
+  xy: 1, 1
+  size: 87, 233
+  orig: 87, 233
+  offset: 0, 0
+  index: -1

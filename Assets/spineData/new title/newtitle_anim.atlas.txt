@@ -1,0 +1,62 @@
+
+newtitle_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm 
+  rotate: false
+  xy: 695, 781
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1
+Arm 2
+  rotate: true
+  xy: 1, 1
+  size: 101, 226
+  orig: 101, 226
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1, 312
+  size: 488, 657
+  orig: 488, 657
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 104
+  size: 368, 206
+  orig: 368, 206
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 491, 685
+  size: 202, 284
+  orig: 202, 284
+  offset: 0, 0
+  index: -1
+Shoulders
+  rotate: true
+  xy: 491, 307
+  size: 376, 68
+  orig: 376, 68
+  offset: 0, 0
+  index: -1
+arm2upper
+  rotate: false
+  xy: 561, 457
+  size: 59, 226
+  orig: 59, 226
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 371, 169
+  size: 102, 141
+  orig: 102, 141
+  offset: 0, 0
+  index: -1

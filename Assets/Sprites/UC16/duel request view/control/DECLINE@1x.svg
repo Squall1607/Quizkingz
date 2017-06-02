@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="15px" viewBox="0 0 76 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>DECLINE@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="UC16.2.1-CHAT-WINDOWS---REQUEST-VIEW" sketch:type="MSArtboardGroup" transform="translate(-56.000000, -271.000000)" font-weight="bold" font-family="Avenir Next" line-spacing="24" fill="#FFFFFF" font-size="18">
+            <g id="UI/Accept-or-decline" sketch:type="MSLayerGroup" transform="translate(0.000000, 256.900000)">
+                <text id="DECLINE" sketch:type="MSTextLayer">
+                    <tspan x="55" y="28">DECLINE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

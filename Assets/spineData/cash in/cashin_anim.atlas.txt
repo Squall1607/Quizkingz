@@ -1,0 +1,62 @@
+
+cashin_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 739, 482
+  size: 304, 162
+  orig: 304, 162
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1, 305
+  size: 488, 657
+  orig: 488, 657
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 491, 788
+  size: 378, 174
+  orig: 378, 174
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 491, 488
+  size: 246, 298
+  orig: 246, 298
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: true
+  xy: 313, 23
+  size: 280, 136
+  orig: 280, 136
+  offset: 0, 0
+  index: -1
+Mantle
+  rotate: false
+  xy: 1, 53
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1, 1
+  size: 266, 50
+  orig: 266, 50
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 871, 893
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1

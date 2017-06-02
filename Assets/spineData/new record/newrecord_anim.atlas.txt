@@ -1,0 +1,55 @@
+
+newrecord_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm2x
+  rotate: true
+  xy: 491, 409
+  size: 286, 178
+  orig: 286, 178
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1, 267
+  size: 488, 657
+  orig: 488, 657
+  offset: 0, 0
+  index: -1
+Body2x
+  rotate: false
+  xy: 491, 697
+  size: 278, 227
+  orig: 278, 227
+  offset: 0, 0
+  index: -1
+Fill 42x
+  rotate: false
+  xy: 771, 836
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+Head2x
+  rotate: false
+  xy: 309, 1
+  size: 166, 264
+  orig: 166, 264
+  offset: 0, 0
+  index: -1
+Roll2x
+  rotate: false
+  xy: 1, 31
+  size: 306, 234
+  orig: 306, 234
+  offset: 0, 0
+  index: -1
+eyebrows
+  rotate: false
+  xy: 491, 398
+  size: 88, 9
+  orig: 88, 9
+  offset: 0, 0
+  index: -1

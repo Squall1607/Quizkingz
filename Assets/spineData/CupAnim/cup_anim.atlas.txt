@@ -1,0 +1,48 @@
+
+cup_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stripe2
+  rotate: true
+  xy: 1, 22
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 1, 320
+  size: 447, 165
+  orig: 447, 165
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 1, 487
+  size: 489, 371
+  orig: 489, 371
+  offset: 0, 0
+  index: -1
+fill
+  rotate: false
+  xy: 492, 831
+  size: 366, 27
+  orig: 366, 27
+  offset: 0, 0
+  index: -1
+medal
+  rotate: false
+  xy: 1, 174
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+stripe
+  rotate: false
+  xy: 492, 703
+  size: 153, 126
+  orig: 153, 126
+  offset: 0, 0
+  index: -1
